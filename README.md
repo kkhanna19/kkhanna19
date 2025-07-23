@@ -1,4 +1,4 @@
-# Kajal-Khanna
+👋 Hi, I'm Kajal Khanna
 📌 Projects, passions, and personal progress
 
 I'm a final year **Computer Science Engineering** student at **Poornima College of Engineering, Jaipur**.
